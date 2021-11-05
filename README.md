@@ -1,5 +1,5 @@
 # Intro
-At the time of writing the HHKB 25th anniversary keyboard is not supported by the remapping tool due to a simple JSON entry, as it is a simple "reskin" of the hybrid models
+At the time of writing the HHKB 25th anniversary keyboard is not supported by the remapping tool. We simply need to add the model name, as it shares the same hardware with the other hybrid models (KB800 for US and KB820 for JP)
 
 # How to use
 Replace your KeyboardDatalist.json with the provided file, or copy over the `PD-KB800YS` entry.
